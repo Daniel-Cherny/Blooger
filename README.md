@@ -1,1 +1,1 @@
-blooger.dev
+Check it out here - blooger.dev
