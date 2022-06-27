@@ -1,1 +1,3 @@
-# Blooger - blooger.dev
+# Blooger
+
+blooger.dev
