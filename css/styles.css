@@ -555,6 +555,18 @@ footer.footer .move-up span:hover{
 /*              Viewport less then or equal to 520px            */
 
 @media only screen and (max-width: 520px){
+
+    .nav .nav-brand a{
+        padding: 1.5rem 0;
+        display: block;
+        font-family: var(--Lexend);
+        font-size: 2rem;
+    }
+    
+    .nav .toggle-collapse .toggle-icons i {
+        padding-top: 0.5rem;
+    }
+
     main .blog{
         height: 90vh;
     }
