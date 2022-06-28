@@ -583,6 +583,10 @@ footer.footer .move-up span:hover{
         padding-top: 15vh;
     }
     
+    .site-content .sidebar .newsletter {
+        padding-top: 10vh;
+    }
+
     footer.footer .container > div{
         padding:  1rem .9rem !important;
     }
