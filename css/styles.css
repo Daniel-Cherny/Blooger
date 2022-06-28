@@ -575,6 +575,14 @@ footer.footer .move-up span:hover{
         display: none;
     }
 
+    .site-content .sidebar .category {
+        margin-top: 10vh;
+    }
+
+    .site-content .sidebar .popular-post h2{
+        padding-top: 15vh;
+    }
+    
     footer.footer .container > div{
         padding:  1rem .9rem !important;
     }
